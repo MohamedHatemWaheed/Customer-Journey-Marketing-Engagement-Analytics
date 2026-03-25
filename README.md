@@ -277,7 +277,8 @@ The Power BI report is structured across **4 interactive dashboards**, each targ
 
 **Dashboard Preview:**
 
-![Customer Journey Dashboard](Analyzing_Customer_Behavior_Across_the_Journey_Dashboard.png)
+![Customer Journey Dashboard](<Dashboard/Analyzing_Customer_Behavior_Across_the_Journey_Dashboard.png>)
+
 
 ---
 
@@ -295,7 +296,7 @@ The Power BI report is structured across **4 interactive dashboards**, each targ
 
 **Dashboard Preview:**
 
-![Customer Feedback & Satisfaction Dashboard](Customer_Feedback___Satisfaction_Dashboard.png)
+![Customer Feedback & Satisfaction Dashboard](<Dashboard/Customer_Feedback___Satisfaction_Dashboard.png>)
 
 ---
 
@@ -313,8 +314,7 @@ The Power BI report is structured across **4 interactive dashboards**, each targ
 
 **Dashboard Preview:**
 
-![Marketing Engagement & Campaign Effectiveness Dashboard](Marketing_Engagement___Campaign_Effectiveness_Dashboard.png)
-
+![Marketing Engagement & Campaign Effectiveness Dashboard](<Dashboard/Marketing_Engagement___Campaign_Effectiveness_Dashboard.png>)
 ---
 
 ## 💡 Business Insights Generated
