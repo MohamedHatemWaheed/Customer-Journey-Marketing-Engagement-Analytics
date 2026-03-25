@@ -259,7 +259,7 @@ The Power BI report is structured across **4 interactive dashboards**, each targ
 
 **Dashboard Preview:**
 
-![Executive Overview Dashboard](Executive_dashboard.png)
+![Executive Overview Dashboard](Dashboard/Executive dashboard.png)
 
 ---
 
