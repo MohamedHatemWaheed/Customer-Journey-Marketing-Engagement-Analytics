@@ -277,7 +277,7 @@ The Power BI report is structured across **4 interactive dashboards**, each targ
 
 **Dashboard Preview:**
 
-![Customer Journey Dashboard](<Dashboard/Analyzing_Customer_Behavior_Across_the_Journey_Dashboard.png>)
+![Customer Journey Dashboard](Dashboard/Analyzing%20Customer%20Behavior%20Across%20the%20Journey%20Dashboard.png)
 
 
 ---
@@ -388,7 +388,7 @@ Executive Presentation (.pptx)
 
 > Watch the full interactive dashboard walkthrough — covering all 4 pages, key slicers, filters, and business insights:
 
-[![Watch Dashboard Demo](https://img.shields.io/badge/▶%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_VIDEO_LINK_HERE)
+[![Watch Dashboard Demo](https://img.shields.io/badge/▶%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://vimeo.com/1177002737?share=copy&fl=sv&fe=ci)
 
 ---
 
