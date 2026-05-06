@@ -3,6 +3,17 @@
 > **End-to-end Business Intelligence project** — from raw SQL Server backup to fully interactive Power BI dashboards and executive presentation.
 
 ---
+# 🧠 Business Problem
+
+The business is experiencing a significant drop-off across the customer journey, particularly at the checkout stage, resulting in low overall conversion despite strong marketing engagement.
+
+---
+
+# 💰 Why It Matters
+
+Improving conversion rates directly increases revenue without increasing acquisition cost. Identifying where and why customers drop off enables better decision-making in marketing, product design, and user experience.
+
+---
 
 ## 📌 Project Overview
 
@@ -22,7 +33,60 @@ This project demonstrates a **complete end-to-end BI workflow** including databa
 
 ---
 
-## 🗂️ Table of Contents
+# 🔍 Approach
+
+### 🔹 Funnel Analysis
+- Calculated conversion rates across stages (Home → Product → Checkout)
+- Identified drop-off points and weakest stage
+
+### 🔹 Behavioral Analysis
+- Analyzed user actions (clicks, views, purchases, drop-offs)
+- Measured engagement patterns across journey stages
+
+### 🔹 Segmentation
+- Segmented customers by country, product, and campaign
+- Compared engagement and conversion behavior across segments
+
+### 🔹 Campaign Performance Analysis
+- Evaluated marketing campaigns using CTR and engagement metrics
+- Identified high-performing campaigns and content types
+
+### 🔹 Customer Experience Analysis
+- Analyzed customer ratings and satisfaction trends
+- Identified top and low-performing products
+
+---
+
+# 💡 Key Insights
+
+- 🔻 Major drop-off occurs at the **Checkout stage**
+- 👥 Only **198 buyers out of 3,932 visitors (~5% conversion)**
+- 📊 High engagement does not translate effectively into conversions
+- 🌍 Customer behavior varies significantly across regions
+- ⭐ Average customer satisfaction ~3.7/5 indicates improvement opportunities
+
+---
+
+# 🎯 Recommendations
+
+- Simplify checkout process to reduce friction
+- Improve product page experience (UX, pricing clarity)
+- Reallocate budget to high-performing campaigns
+- Introduce retargeting for users who drop at checkout
+- Improve underperforming products based on customer feedback
+
+---
+
+# 📈 Expected Impact
+
+- +10–15% increase in conversion rate
+- Improved checkout completion rate
+- Better marketing ROI
+- Stronger alignment between engagement and revenue
+
+---
+
+# 🗂️ Table of Contents
 
 - [1️⃣ Database Restoration & Exploration](#1️⃣-database-restoration--exploration)
 - [2️⃣ SQL Data Engineering & Transformation](#2️⃣-sql-data-engineering--transformation)
@@ -38,6 +102,8 @@ This project demonstrates a **complete end-to-end BI workflow** including databa
 - [📎 Deliverables](#-deliverables)
 
 ---
+# 🏗️ Technical Implementation
+
 
 ## 1️⃣ Database Restoration & Exploration
 
